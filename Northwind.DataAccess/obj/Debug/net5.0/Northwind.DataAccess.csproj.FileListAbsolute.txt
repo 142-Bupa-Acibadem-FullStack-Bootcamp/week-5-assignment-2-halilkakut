@@ -1,0 +1,17 @@
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.deps.json
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.runtimeconfig.json
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.runtimeconfig.dev.json
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\ref\Northwind.DataAccess.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\ref\Northwind.DataAccess.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.genruntimeconfig.cache

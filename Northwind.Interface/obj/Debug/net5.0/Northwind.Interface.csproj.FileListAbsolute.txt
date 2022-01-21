@@ -1,0 +1,14 @@
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\halil\Desktop\WebProjects\Northwind\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb
